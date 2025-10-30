@@ -7,6 +7,9 @@ Main focus currently is the company Framework.
 
 <ol>
   <li>
+    General Informations
+  </li>
+  <li>
     UX Feedback and suggestions
   </li>
   <li>
