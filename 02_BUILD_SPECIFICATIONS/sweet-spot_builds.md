@@ -46,6 +46,9 @@ The specifc specs are:
   <li>
     Expansion cards: One of each except DP and microSD.
   </li>
+  <li>
+    Additions: Dual M.2 Adapter
+  </li>
 </ul>
 
 ### AI Series
